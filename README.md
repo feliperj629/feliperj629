@@ -10,11 +10,11 @@
 - Sempre aprendendo e compartilhando conhecimento  
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** PHP, Python, JavaScript
+- **Linguagens:** PHP, Python, JavaScript, C++
 - **Banco de dados:** PostgreSQL, MySQL, MongoDB, Neo4J
-- **Ferramentas:** Docker, Git, Linux, Cloud Computing, Inteligência Artificial, Segurança da Informação
 - **Metodologias:** Scrum | Boas práticas ITIL 4 | Governança de Dados (LGPD)
-- **Frameworks & Plataformas:** React Native, Laravel, Zend, Spring Boot 
+- **Ferramentas:** Docker, Git, Linux, Cloud Computing, Inteligência Artificial, Segurança da Informação
+- **Frameworks & Plataformas:** React Native, Laravel, Zend, Spring Boot, Arduino
 
 ## 🎓 Certificações
 - ✅ ITIL 3 e 4 Foundation  
