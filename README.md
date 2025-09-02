@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Alves  
 
-<!--
-**feliperj629/feliperj629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mestre em Sistemas e Computação (IME)  
+💻 Analista Sênior Web na Central IT  
+👨‍🏫 Professor na Estácio de Sá  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- Apaixonado por tecnologia, sistemas distribuídos e desenvolvimento web  
+- Experiência em bancos de dados, backend e integração de sistemas  
+- Sempre aprendendo e compartilhando conhecimento  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, Java, PHP, JavaScript  
+- **Banco de dados:** PostgreSQL, MySQL  
+- **Ferramentas:** Docker, Git, Linux  
+
+## 📫 Contato
+- [LinkedIn](https://linkedin.com/in/felipealvesdeoliveira)  
+- [Lattes](https://lattes.cnpq.br/0510166925160914)
+- [ORCID](https://orcid.org/0000-0003-4011-3504)
